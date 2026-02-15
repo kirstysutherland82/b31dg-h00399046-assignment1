@@ -12,5 +12,6 @@
     "--background-index",
     "--query-driver=**",
     "--compile-commands-dir=c:\\Users\\kirst\\b31dg-assignment1\\build"
-  ]
+  ],
+  "idf.flashType": "UART"
 }
